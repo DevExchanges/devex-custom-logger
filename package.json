@@ -1,0 +1,31 @@
+{
+    "name": "devex-custom-logger",
+    "version": "1.0.0",
+    "description": "Flexible logging utility for Node.js with customizable configurations.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "node src/test.js"
+    },
+    "keywords": [
+        "devex-custom-logger",
+        "devex",
+        "logger",
+        "logging",
+        "utility",
+        "custom"
+    ],
+    "author": "DevExchanges",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DevExchanges/devex-custom-logger.git"
+    },
+    "bugs": {
+        "url": "https://github.com/DevExchanges/devex-custom-logger/issues"
+    },
+    "homepage": "https://github.com/DevExchanges/devex-custom-logger#readme",
+    "dependencies": {
+        "winston": "^3.3.3",
+        "winston-daily-rotate-file": "^4.0.0"
+    }
+}
