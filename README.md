@@ -1,16 +1,16 @@
-# DevEx Custom Logger
+# DevEx Customize Logger
 
-DevEx Custom Logger is a flexible logging utility for Node.js that allows you to log messages with different log levels. It includes features like log rotation, customizable log levels, and the ability to enable or disable logging.
+DevEx Customize Logger is a flexible logging utility for Node.js that allows you to log messages with different log levels. It includes features like log rotation, customizable log levels, and the ability to enable or disable logging.
 
 ## Installation
 
 ```bash
-npm install devex-custom-logger
+npm install devex-customize-logger
 ```
 # Usage
 ```javascript
 // Import the logger
-const logger = require('./index.js');
+const logger = require('devex-customize-logger');
 
 // Log messages with different log levels
 logger.info('This is an information message.');
