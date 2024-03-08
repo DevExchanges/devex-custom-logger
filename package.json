@@ -1,6 +1,6 @@
 {
     "name": "devex-customize-logger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Flexible logging utility for Node.js with customizable configurations.",
     "main": "src/index.js",
     "scripts": {
